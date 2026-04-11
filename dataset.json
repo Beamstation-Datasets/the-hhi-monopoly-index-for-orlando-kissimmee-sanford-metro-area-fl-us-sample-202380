@@ -1,0 +1,22 @@
+{
+  "base_price": 1495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Orlando-Kissimmee-Sanford Metro Area, FL, US",
+  "export_job_id": "5130c3ba-cf5c-435f-b684-6dc381c2c84b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 202380,
+  "location_name": "Orlando-Kissimmee-Sanford, FL",
+  "location_type": "metro",
+  "repo_name": "the-hhi-monopoly-index-for-orlando-kissimmee-sanford-metro-area-fl-us-sample-202380",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/202380/beamstation_202380_restaurants-us-orlandokissimmeesanfordfl_SAMPLE_DIST.csv",
+  "sample_pct": 9.66,
+  "sample_records": 20,
+  "sample_sha256": "c469e0858daf5604f11e590f668bdb620d48bb71dd51509748caa49cb1fdc444",
+  "sample_size_bytes": 95681,
+  "total_records": 207,
+  "updated_at": "2026-04-07T23:46:50.355428+00:00"
+}
