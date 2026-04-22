@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Orlando-Kissimmee-Sanford Metro Area, FL, US
 
-> Free BeamStation sample export with 15 rows and masked direct-contact fields.
+> Free BeamStation sample export with 13 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `202380` |
 | Location | Orlando-Kissimmee-Sanford, FL |
 | Category | Restaurants |
-| Full dataset size | 159 records |
-| Free sample size | 15 records (9.43%) |
-| Last export | 2026-04-15T05:28:39.599106+00:00 |
+| Full dataset size | 138 records |
+| Free sample size | 13 records (9.42%) |
+| Last export | 2026-04-22T11:12:30.537668+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-orlando-kissimmee-sanford-metro-area-fl-us-sample-202380/releases/download/sample-latest/beamstation_202380_restaurants-us-orlandokissimmeesanfordfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
