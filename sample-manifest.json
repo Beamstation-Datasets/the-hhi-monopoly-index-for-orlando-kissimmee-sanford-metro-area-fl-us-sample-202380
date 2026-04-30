@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bef956ba-06c5-4a65-b447-0fc91be44b18",
+  "export_job_id": "ab72cd44-37b7-413b-a0f5-b3a250e68ec0",
   "id_short": 202380,
-  "published_at": "2026-04-22T19:22:35Z",
+  "published_at": "2026-04-30T07:07:27Z",
   "repo_name": "the-hhi-monopoly-index-for-orlando-kissimmee-sanford-metro-area-fl-us-sample-202380",
   "sample_asset_name": "beamstation_202380_restaurants-us-orlandokissimmeesanfordfl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/202380/beamstation_202380_restaurants-us-orlandokissimmeesanfordfl_SAMPLE_DIST.csv",
-  "sample_records": 13,
-  "sample_sha256": "524ef5ccc8d9a7ca28324a56a9d81add2c4d08a56bd2d72b471c3b0f95a9d3c6",
-  "sample_size_bytes": 69291,
-  "total_records": 138
+  "sample_records": 11,
+  "sample_sha256": "061f245d7b33934353dfe977f1062f2cf0f19107ed7547d45553028d2d7ae94c",
+  "sample_size_bytes": 58428,
+  "total_records": 119
 }
